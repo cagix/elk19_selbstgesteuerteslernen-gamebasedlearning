@@ -52,7 +52,7 @@ Umsetzung ist für das Sommersemester 2020 geplant.
 
 # License
 
-Copyright (c) 2019, Carsten Gips
+Copyright (c) 2019-2022, Carsten Gips
 
 The content of this project itself is licensed under the
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/),
