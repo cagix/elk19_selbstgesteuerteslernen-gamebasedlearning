@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Selbstgesteuertes Lernen in der Programmierausbildung -
+  Let's build a game!
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Carsten
+    family-names: Gips
+    email: cagix@hsbi.de
+    affiliation: HSBI
+    orcid: 'https://orcid.org/0000-0002-4230-9060'
+repository-code: >-
+  https://github.com/cagix/elk19_selbstgesteuerteslernen-gamebasedlearning
+abstract: >-
+  Kurzbeitrag zur LE#RE DIGITAL19 - E-Learning-Konferenz, FH
+  Bielefeld, 05.11.2019
+license: CC-BY-SA-4.0
