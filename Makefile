@@ -71,10 +71,10 @@ all: $(SLIDES) $(HTML)
 
 $(SRC:.md=): %: ${ID}_%.pdf ${ID}_%.html
 
-${ID}_%.pdf: %.md metadata.yaml
+${ID}_%.pdf: %.md pandoc_meta.yaml
 	$(PANDOC) ${BEAMEROPTIONS} -o $@ $^
 
-${ID}_%.html: %.md metadata.yaml
+${ID}_%.html: %.md pandoc_meta.yaml
 	$(PANDOC) ${HTMLOPTIONS} -o $@ $^
 
 
